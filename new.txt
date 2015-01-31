@@ -1,2 +1,4 @@
 line 2
 hotfiles added in master
+omni line
+one more omni line
